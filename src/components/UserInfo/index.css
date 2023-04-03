@@ -1,0 +1,27 @@
+.list-item {
+  padding: 10px;
+}
+.text-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.head {
+  font-size: 22px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #12022f;
+}
+.para {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #616e7c;
+}
+.date {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #616e7c;
+}
+.line {
+  border: solid 1px #9aa5b1;
+}
